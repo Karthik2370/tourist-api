@@ -1,0 +1,28 @@
+{
+    "name":"Jaipur",
+    "city_description":"Jaipur, lovingly alluded to as the Pink City in view of the pink dividers and the structures of the old city, baits guests with its staggering reminders of a past time. The most famous Jaipur attractions and places to visit are the aged royal residences and forts; with expanded construction modeling that serves as a brilliant indication of their royal heritage.",
+
+    "link":"https://en.wikipedia.org/wiki/Jaipur",
+    "maplink":"https://www.google.com/maps/d/u/0/viewer?mid=1jBRh2yzA1mu3jvlLH4E6YqWPerk&hl=en&ll=26.875866130949618%2C75.83057650000003&z=11",
+
+
+
+    "places":{
+        "place1":"Amber Palace",
+        "place1_img":"https://i.imgur.com/CIcLpzH.jpeg",
+        
+        "place2":"Hawa Mahal",
+        "place2_img":"https://i.imgur.com/jP7tvtw.jpeg",
+        
+        "place3":"Nahargarh Fort",
+        "place3_img":"https://i.imgur.com/Tdfz14i.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Dal Bathi Churma",
+      "food1_img":"https://i.imgur.com/Vu41gsF.jpeg",
+      
+      "food2":"Gatte ki Subji",
+      "food2_img":"https://i.imgur.com/T793EuK.jpeg"
+    }
+}

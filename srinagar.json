@@ -1,0 +1,28 @@
+{
+    "name":"Srinagar",
+    "city_description":"Famously known as ‘Heaven on Earth’, Srinagar is located in the union territory of Jammu & Kashmir, on the banks of river Jhelum. As picturesque as the most stunning painting to ever be painted, Srinagar is known for the stationary houseboats and colourful Shikararas on Dal Lake.",
+
+    "link":"https://en.wikipedia.org/wiki/Srinagar",
+    "maplink":"https://www.google.com/maps/d/u/0/viewer?mid=1r4AyV3kSzIwktt-L_QjZ07j9A5k&hl=en&ll=34.01976333732034%2C74.786382&z=13",
+
+
+
+    "places":{
+        "place1":"Dal Lake",
+        "place1_img":"https://i.imgur.com/YxOk3sL.jpeg",
+        
+        "place2":"Pari Mahal",
+        "place2_img":"https://i.imgur.com/S34PLBi.jpeg",
+        
+        "place3":"Shankaracharya temple",
+        "place3_img":"https://i.imgur.com/t3CRTcM.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Rogan Josh",
+      "food1_img":"https://i.imgur.com/AfTxYgp.jpeg",
+      
+      "food2":"dum aloo",
+      "food2_img":"https://i.imgur.com/uWMSEfs.jpeg"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name":"Mumbai",
+    "city_description":"Mumbai is the largest city and also regarded as the business capital of India. Mumbai on the net is a tribute to Mumbai’s individuals, society history and quirks. This city is full of life and is additionally known for its well known visitor’s places, beaches, Bollywood Movies, temples, etc.",
+
+    "link":"https://en.wikipedia.org/wiki/Mumbai",
+    "maplink":"https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.google.com/maps/d/u/0/viewer%3Fmsa%3D0%26ie%3DUTF8%26t%3Dh%26vpsrc%3D6%26ll%3D19.165924000000018%252C77.71728500000002%26spn%3D11.50114%252C21.621094%26z%3D6%26source%3Dembed%26mid%3D1DfFcv3jAM8NAeioBjW_CHwtKL3A&ved=2ahUKEwjq7KH9m-76AhVjBrcAHUwrDoYQFnoECBEQAQ&usg=AOvVaw3BGema2fBJ9WD3hbkYPf3f",
+
+
+
+    "places":{
+        "place1":"Gateway of India",
+        "place1_img":"https://i.imgur.com/oqCdkdy.jpeg",
+        
+        "place2":"CSMT",
+        "place2_img":"https://i.imgur.com/YjnlkjZ.jpeg",
+        
+        "place3":"Marine Drive",
+        "place3_img":"https://i.imgur.com/YeCDb3y.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Vada Pav",
+      "food1_img":"https://i.imgur.com/RiSnZpb.jpeg",
+      
+      "food2":"Pav Bhaji",
+      "food2_img":"https://i.imgur.com/V3fRntO.jpeg"
+    }
+}

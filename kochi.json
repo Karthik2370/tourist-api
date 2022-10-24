@@ -1,0 +1,28 @@
+{
+    "name":"Kochi",
+    "city_description":"The striking port city of Kochi or Cochin is a visitor’s heaven. Lavish mangroves, coconut tress reflected in the translucent waters of backwaters, old temples, church buildings, and forts.",
+
+    "link":"https://en.wikipedia.org/wiki/Kochi",
+    "maplink":"https://www.google.com/maps/d/u/0/viewer?ie=UTF8&hl=en&msa=0&ll=9.94045345809878%2C76.33987400000001&spn=0.139664%2C0.305557&source=embed&mid=14W5pnwwTE2j4xQTYt1scliyS85U&z=11",
+
+
+
+    "places":{
+        "place1":"SantaCruz Cathedral",
+        "place1_img":"https://i.imgur.com/QazLbKZ.jpeg",
+        
+        "place2":"Willingdon Island",
+        "place2_img":"https://i.imgur.com/rlXNoux.jpeg",
+        
+        "place3":"Matancherry Palace",
+        "place3_img":"https://i.imgur.com/zSgLQZ4.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Puttu Curry",
+      "food1_img":"https://i.imgur.com/uStnWXq.jpeg",
+      
+      "food2":"Thattu Dosa",
+      "food2_img":"https://i.imgur.com/PicSg9E.jpeg"
+    }
+}

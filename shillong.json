@@ -1,0 +1,28 @@
+{
+    "name":"Shillong",
+    "city_description":"A beautiful city encircled by pine trees, Shillong is the capital of Meghalaya. It derives its name from Lei Shyllong, an idol worshipped at the Shillong Peak. Standing as tall as 1496 meters, Shillong provides a relief from the heat across the country. This hill station is known for its picturesque sights and traditions.",
+
+    "link":"https://en.wikipedia.org/wiki/Shillong",
+    "maplink":"https://www.google.com/maps/d/u/0/viewer?mid=1kb4Tt1gNt1B-PhcSAVp_Zeu4Bvg&hl=en_US&ll=25.57867900000003%2C91.885872&z=17",
+
+
+
+    "places":{
+        "place1":"Don Bosco Museum",
+        "place1_img":"https://i.imgur.com/7d0G37t.jpeg",
+        
+        "place2":"Ward's Lake",
+        "place2_img":"https://i.imgur.com/SWL4IdE.jpeg",
+        
+        "place3":"Laitkor Peak",
+        "place3_img":"https://i.imgur.com/OZaaHVT.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Momos",
+      "food1_img":"https://i.imgur.com/oFYFkOw.jpeg",
+      
+      "food2":"Jadoh",
+      "food2_img":"https://i.imgur.com/C4cWUmm.jpeg"
+    }
+}

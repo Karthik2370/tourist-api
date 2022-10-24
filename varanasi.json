@@ -1,0 +1,28 @@
+{
+    "name":"Varanasi",
+    "city_description":"The old city of Varanasi lies along the western banks of the Ganges.Temples at almost every turn engulf Varanasi but the Kashi Vishwanath Temple is the most visited and the oldest of the lot.",
+
+    "link":"https://en.wikipedia.org/wiki/Varanasi",
+    "maplink":"https://www.google.com/maps/d/u/0/viewer?mid=1ekmkLyP15eKC6noAwIOuKo_4m20&hl=en_US&ll=25.935108062744693%2C82.552922&z=9",
+
+
+
+    "places":{
+        "place1":"Kashi Vishwanath Temple",
+        "place1_img":"https://i.imgur.com/Mx7PC6m.jpeg",
+        
+        "place2":"Dhamekh Stupa",
+        "place2_img":"https://i.imgur.com/Y20MUZl.jpeg",
+        
+        "place3":"Ramnagar Fort",
+        "place3_img":"https://i.imgur.com/paPXFvF.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Kachori sabji",
+      "food1_img":"https://i.imgur.com/HP32t5y.jpeg",
+      
+      "food2":"Dahi Wada",
+      "food2_img":"https://i.imgur.com/s3HDXnN.jpeg"
+    }
+}

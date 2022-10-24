@@ -1,0 +1,28 @@
+{
+    "name":"",
+    "city_description":"",
+
+    "link":"",
+    "maplink":"",
+
+
+
+    "places":{
+        "place1":"",
+        "place1_img":"",
+        
+        "place2":"",
+        "place2_img":"",
+        
+        "place3":"",
+        "place3_img":""
+    },
+    
+    "foods":{
+      "food1":"",
+      "food1_img":"",
+      
+      "food2":"",
+      "food2_img":""
+    }
+}

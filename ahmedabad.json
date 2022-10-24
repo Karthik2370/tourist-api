@@ -1,0 +1,28 @@
+{
+    "name":"Ahmedabad",
+    "city_description":"Also known as Amdavad, this is an industrial and commercial city but a beautiful, popular destination for tourists who want to get the taste of Gujarat. Recognized as one of the fastest growing cities, Ahmedabad was featured as the best city to live in the Times of India. With increasing economic growth, Ahmedabad has the country's second oldest stock exchange, arguably the most renowned entrepreneurial Indian Institution (IIM) and sweet savouries of Gujaratis that can never be replicated from any other city.",
+
+    "link":"https://en.wikipedia.org/wiki/Ahmedabad",
+    "maplink":"https://www.google.com/maps/d/u/0/viewer?mid=15h5o9uaLz5Z1CLKb4oFgNtcVrUk&ie=UTF8&t=m&oe=UTF8&msa=0&ll=23.05003899999999%2C72.56813&z=17",
+
+
+
+    "places":{
+        "place1":"Sabarmati Asharam",
+        "place1_img":"https://i.imgur.com/m8ARP03.jpeg",
+        
+        "place2":"Kankaria Lake",
+        "place2_img":"https://i.imgur.com/yFBKu4S.jpeg",
+        
+        "place3":"The Adalaj Stepwell",
+        "place3_img":"https://i.imgur.com/D99Rpef.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Fafda Jalebi",
+      "food1_img":"https://i.imgur.com/4OyAahi.jpeg",
+      
+      "food2":"Dhokla",
+      "food2_img":"https://i.imgur.com/9d7kLOx.jpeg"
+    }
+}

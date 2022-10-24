@@ -1,0 +1,28 @@
+{
+    "name":"Darjeeling",
+    "city_description":"Jaw-dropping locales, mesmerising sunrises, the untouched beauty of the hills, the old-world charm of the past, and the welcoming smiles of the local people all add up to make Darjeeling one of the most beautiful hill stations in Eastern part of India. Spread over a steep mountain ridge, nestled amidst acres of lush green tea plantations, Darjeeling stands at the height of 2,050 meters above sea level, thus boasting of cool climes all year round",
+
+    "link":"https://en.wikipedia.org/wiki/Darjeeling",
+    "maplink":"https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=h&oe=UTF8&msa=0&mid=16KmV3SyscGjeSIBvRUphBe_Q16g&ll=26.881277797030993%2C88.34289700000001&z=11",
+
+
+
+    "places":{
+        "place1":"Batasia Loop",
+        "place1_img":"https://i.imgur.com/yYiImbK.jpeg",
+        
+        "place2":"Tiger Hill",
+        "place2_img":"https://i.imgur.com/dHPR6hb.jpeg",
+        
+        "place3":"Sandakphu",
+        "place3_img":"https://i.imgur.com/Dr0bgBr.jpeg"
+    },
+    
+    "foods":{
+      "food1":"kwati",
+      "food1_img":"https://i.imgur.com/QNhUSqp.jpeg",
+      
+      "food2":"Aloo Achar",
+      "food2_img":"https://i.imgur.com/JQWk8AN.jpeg"
+    }
+}

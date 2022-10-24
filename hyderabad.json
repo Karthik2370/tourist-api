@@ -1,0 +1,28 @@
+{
+    "name":"Hyderabad",
+    "city_description":"A city of contrasts, Hyderabad exudes an old-world charm of its own with the Old City (Charminar side), Hitech City (Cyberabad) and the other areas lying between the old and the new. The capital and the largest city of Telanaga, Hyderabad is home to stately mosques and noisy bazaars lined parallelly alongside swanky new office buildings and malls.",
+
+    "link":"https://en.wikipedia.org/wiki/Hyderabad",
+    "maplink":"https://www.google.com/maps/d/u/0/viewer?ptab=2&ie=UTF8&oe=UTF8&msa=0&mid=1EzgROmKbC6QJLitgj_kJY9JyPsc&ll=17.409152968829822%2C78.39616849999999&z=11",
+
+
+
+    "places":{
+        "place1":"Charminar",
+        "place1_img":"https://i.imgur.com/reoISDA.jpeg",
+        
+        "place2":"Golconda Fort",
+        "place2_img":"https://i.imgur.com/VCALUxK.jpeg",
+        
+        "place3":"Birla Mandir",
+        "place3_img":"https://i.imgur.com/PI6xi1d.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Hyderabadi Biryani",
+      "food1_img":"https://i.imgur.com/pL0JUZe.jpeg",
+      
+      "food2":"https://i.imgur.com/xhinKsg.jpeg",
+      "food2_img":"Haleem"
+    }
+}

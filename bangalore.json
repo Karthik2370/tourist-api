@@ -1,0 +1,28 @@
+{
+    "name":"Bangalore",
+    "city_description":"Having evolved gradually from being the Garden City to the Silicon Valley of India, Bengaluru is India's third-largest city, being the most liveable city in India. The dream city for most Indians, Bangalore will never cease to mesmerise you with its sheer perfection. Also known as the IT hub of India, Bangalore is home to leading startups.",
+
+    "link":"https://en.wikipedia.org/wiki/Bangalore",
+    "maplink":"https://www.google.com/maps/d/u/0/viewer?msa=0&ll=12.978633680699216%2C77.60398900000001&spn=0.073016%2C0.132093&mid=1jjdOnB91E1dK8dHGVI3h8cHWE40&z=13",
+
+
+
+    "places":{
+        "place1":"Bengaluru Palace",
+        "place1_img":"https://i.imgur.com/LlWzGQL.jpeg",
+        
+        "place2":"Lalbagh Botanical Garden",
+        "place2_img":"https://i.imgur.com/qMM70AT.jpeg",
+        
+        "place3":"Karnataka Vidhana Soudha",
+        "place3_img":"https://i.imgur.com/fHA5RdP.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Dal Obbattu",
+      "food1_img":"https://i.imgur.com/El4xHBE.jpeg",
+      
+      "food2":"Utthapam",
+      "food2_img":"https://i.imgur.com/4PAPiB1.jpeg"
+    }
+}

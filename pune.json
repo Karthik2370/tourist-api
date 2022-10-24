@@ -1,0 +1,28 @@
+{
+    "name":"Pune",
+    "city_description":"With an extensive student population, Pune is popularly known as the college town of India. It has a range of excellent restaurants, happening nightlife and an overall young atmosphere.Apart from this, the city has a favourable climate, with summers that stay below 35°C and the rains are perfect",
+
+    "link":"https://en.wikipedia.org/wiki/Pune",
+    "maplink":"https://www.google.com/maps/place/Pune,+Maharashtra/@18.5246164,73.8629674,12z/data=!3m1!4b1!4m5!3m4!1s0x3bc2bf2e67461101:0x828d43bf9d9ee343!8m2!3d18.5204303!4d73.8567437",
+
+
+
+    "places":{
+        "place1":"Sinhagad Fort",
+        "place1_img":"https://i.imgur.com/9wGk4Wb.jpeg",
+        
+        "place2":"Shaniwar Wada",
+        "place2_img":"https://i.imgur.com/dAxj14P.jpeg",
+        
+        "place3":"Halwai Ganpati Mandir",
+        "place3_img":"https://i.imgur.com/ZVu9pJn.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Sabudana Wada",
+      "food1_img":"https://i.imgur.com/WWuLqwY.jpeg",
+      
+      "food2":"Poha",
+      "food2_img":"https://i.imgur.com/URfqzRg.jpeg"
+    }
+}

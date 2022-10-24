@@ -1,0 +1,28 @@
+{
+    "name":"Panaji",
+    "city_description":"This town located in Goa has protected its Portuguese legacy considerably well and parts of it still holds thin winding avenues, old houses with over hanging balconies, red-tiled tops and various little bars and cafe’s.",
+
+    "link":"https://en.wikipedia.org/wiki/Panaji",
+    "maplink":"https://www.google.com/maps/d/u/0/viewer?mid=1-CqmZFJKuvnaS--Mgd7qcftCW2c&hl=en_US&ll=15.47894071426173%2C73.82030650000002&z=14",
+
+
+
+    "places":{
+        "place1":"Palolem Beach",
+        "place1_img":"https://i.imgur.com/0jHZoTW.jpeg",
+        
+        "place2":"Calangute Beach",
+        "place2_img":"https://i.imgur.com/NdwMETE.jpeg",
+        
+        "place3":"Baga Beach",
+        "place3_img":"https://i.imgur.com/KjkxMpt.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Fish Curry",
+      "food1_img":"https://i.imgur.com/plczCC8.jpeg",
+      
+      "food2":"Sea Food Thali",
+      "food2_img":"https://i.imgur.com/ANCneWn.jpeg"
+    }
+}

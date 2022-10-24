@@ -1,0 +1,28 @@
+{
+    "name":"Chandigarh",
+    "city_description":"Chandigarh, a union territory that is the capital of both Punjab as well as Haryana, is an ideal definition of the word 'city'. With a culture that includes instances of both traditional Punjab as well as modernity, Chandigarh's food and gedi culture (a leisure drive or ride the city) is something that everyone knows of!",
+
+    "link":"https://en.wikipedia.org/wiki/Chandigarh",
+    "maplink":"https://www.google.com/maps/d/u/0/viewer?mid=1YaYrayexVySFc9pqHPXDvgJFGEE&hl=en&ll=30.735897252089014%2C76.78876900000002&z=13",
+
+
+
+    "places":{
+        "place1":"Sukhna Lake",
+        "place1_img":"https://i.imgur.com/ghNn0Rs.jpeg",
+        
+        "place2":"Zakir Hussain Garden",
+        "place2_img":"https://i.imgur.com/ZutN4rY.jpeg",
+        
+        "place3":"Capitol Tourist Center",
+        "place3_img":"https://i.imgur.com/7IujycD.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Gol Gappa",
+      "food1_img":"https://i.imgur.com/GPWXqA9.jpeg",
+      
+      "food2":"Dahi Bhalla",
+      "food2_img":"https://i.imgur.com/WLWXNCU.jpeg"
+    }
+}

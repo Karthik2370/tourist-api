@@ -1,0 +1,28 @@
+{
+    "name":"Chennai",
+    "city_description":"This 'capital of the south', is one among the four metropolitan siblings of India, having a rich cultural history which it perfectly balances with its metropolis lifestyle.",
+
+    "link":"https://en.wikipedia.org/wiki/Chennai",
+    "maplink":"https://www.google.com/maps/d/u/0/viewer?mid=1qJTcq5CaMdI4s4mNWp9Mi7QpJHQ&hl=en&ll=12.971477862060398%2C80.1832865&z=12",
+
+
+
+    "places":{
+        "place1":"Santhome Basilica",
+        "place1_img":"https://i.imgur.com/B4AV0ZF.jpeg",
+        
+        "place2":"Temple Tiruvallikeni",
+        "place2_img":"https://i.imgur.com/JBdXPlT.jpeg",
+        
+        "place3":"Marina Beach",
+        "place3_img":"https://i.imgur.com/dszPmXO.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Idli Sambar",
+      "food1_img":"https://i.imgur.com/YveEcUd.jpeg",
+      
+      "food2":"Dosa",
+      "food2_img":"https://i.imgur.com/7gEhxVT.jpeg"
+    }
+}

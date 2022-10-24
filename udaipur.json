@@ -1,0 +1,28 @@
+{
+    "name":"Udaipur",
+    "city_description":"Udaipur, also known as the City of Lakes, is the crown jewel of the state of Rajasthan. It is surrounded by the beautiful Aravalli Hills in all directions, making this city as lovely as it is. This 'Venice of the East' has an abundance of natural beauty, mesmerising temples and breathtaking architecture.",
+
+    "link":"https://en.wikipedia.org/wiki/Udaipur",
+    "maplink":"https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1vSDtl04-But6usuaayG954o04UA&ll=24.571269999999995%2C73.691544&z=17",
+
+
+
+    "places":{
+        "place1":"Lake Pichola",
+        "place1_img":"https://i.imgur.com/pf0zX35.jpeg",
+        
+        "place2":"Fateh Sagar Lake",
+        "place2_img":"https://i.imgur.com/SeBhvnS.jpeg",
+        
+        "place3":"Jagmandir",
+        "place3_img":"https://i.imgur.com/2SFGq1N.jpeg"
+    },
+    
+    "foods":{
+      "food1":"Dabeli",
+      "food1_img":"https://i.imgur.com/pW1OuaL.jpeg",
+      
+      "food2":"Sangam Barfi",
+      "food2_img":"https://i.imgur.com/7EVlLcS.jpeg"
+    }
+}
